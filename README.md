@@ -1,18 +1,24 @@
-# Hotel Management System
+# Simple Hotel Management System 🏨
 
-This is my first GitHub project. It is a simple hotel management system designed to:
+This is a simple console-based Hotel Management System written in Python.  
+It helps manage room bookings, check-ins, and check-outs.
 
-- Manage room bookings
-- Store customer information
-- Handle staff login
-- Admin dashboard for hotel operations
+## 🔧 Features
+- View room availability
+- Book rooms
+- Checkout rooms
+- View all current guests
 
-## Technologies Used
-- HTML, CSS, JavaScript (Frontend)
-- Python with Flask/Django (Backend)
-- MySQL or SQLite (Database)
+## 🧠 How It Works
+- The system supports 5 rooms (Room 101–105)
+- Stores guest names using a Python dictionary
+- User interacts via text menu in the terminal
 
-## Getting Started
-1. Clone the repo
-2. Run the backend server
-3. Open the frontend in your browser
+## ▶️ How to Run
+
+1. Clone this repo or download the hotel_management.py file
+2. Open terminal in the folder where the file is saved
+3. Run the program:
+
+```bash
+python hotel_management.py
